@@ -34,27 +34,6 @@ export default function BlogPage({ params }: BlogPageProps) {
 
   return (
     
-    // <article className="max-w-4xl mx-auto py-10">
-    //   <h1 className="text-4xl font-bold mb-4">{post.title}</h1>
-    //   <p className="text-gray-600 mb-6">{post.subtitle}</p>
-    //   <img
-    //     src={post.image}
-    //     alt={post.title}
-    //     className="w-full h-auto rounded-lg mb-6"
-    //   />
-    //   <div className="text-lg leading-7 text-gray-800">
-    //     {/* Simulated content for demo purposes */}
-    //     <p>
-    //       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
-    //       vitae sapien non ipsum pulvinar laoreet. Fusce a nulla justo.
-    //     </p>
-    //     <p>
-    //       Maecenas vel ligula non metus vehicula ultrices in ac urna. Proin
-    //       luctus, eros eu convallis consectetur, tortor ligula dictum metus, sed
-    //       interdum est odio at mi.
-    //     </p>
-    //   </div>
-    // </article>
 <>
 <div className="p-10 bg-white items-center justify-center shadow-lg shadow-dbrown rounded-sm mx-14 mt-5 gap-3">
 <div className="border-t border-b border-gray-600 py-2 text-sm my-3 text-dbrown">
